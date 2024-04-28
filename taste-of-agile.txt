@@ -1,0 +1,70 @@
+Agile Values:
+
+- Trust
+- Empathy
+- Respect
+- Openness
+- Courage
+
+Agile Principles:
+    Describes the mindset of being Agile
+
+- Clarity of Outcome
+    - define solution
+    - determine user outcome
+    - aim high-level outcome
+
+    Agile teams focus on the user and user outcomes, not the number of features shipped for a software delivery
+
+
+- Iteration and Learning
+    continually improve rather than wait until it’s perfect.
+    Agile way is understanding that a better solution exists
+    - try small things
+    - get feedback
+    - change according to feedback
+
+
+- Self directed teams
+    - create small teams
+    - participate in decision making
+
+Agile Practices:
+- Social contract:
+    A social contract is a simple agreement that defines how a group will work together “at its best.”
+    acheive it with the help of sticky notes
+- Mood Marbles:
+    red and green marbles for rep. moods
+    each day fill the marbles in a jar, and evaluate the mood of the team
+    Over time, look for any patterns, allows you to be aware of any issues and address them ahead of time.
+- Wall of work
+    to do
+    done 
+    in progress
+    prioritise
+- Standup
+    what have we done
+    what will we do for tomorrow
+    what are the blockers
+- Retro
+    allows the team to tell how they performed
+    what went well, what didnt, what's puzzling
+- Showcase
+- Shuhari
+    shu - learn / follow the rule
+    ha - adapt the rule
+    ri - teach others of our approach
+
+
+Agile Patterns:
+- Agile strategy and governance pattern for developing the direction that the company will follow.
+- Agile operations pattern for the continuous day-to-day work that involves single repeatable processes.
+- Agile program pattern for project work that has a definite start and definite end
+
+Steps in pattern:
+- Mobilize
+- Understand
+- Explore and strategize
+- Build, test and Implement
+- Manage and evolve
+
