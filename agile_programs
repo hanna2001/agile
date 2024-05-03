@@ -1,0 +1,98 @@
+
+
+
+General steps:
+  - event : starts with a project idea
+  - discovery : phase
+  - program funnel : and creates a release plan
+  - project continues through the program funnel into delivery where the work is completed in iterations
+  - delivery: continuously monitors the completion and delivery
+
+Discovery:
+  - business value of the work 
+  - sponsor : speak on behalf of users
+  - technical person : technical aspect of what is being envisioned
+  - Client representation
+
+
+  workshop:
+    - Identify Problem or Opportunity
+    - What is the outcome or goals we’re trying to achieve
+    - Identify Blockers
+    - Identify Solutions
+    - Identify Work : epics, mvp
+
+  benefits:
+    - approved proposal
+    - shared understanding 
+    - Prioritize work
+    - better decisions on how the work will get done
+
+Program Funnel:
+
+  Defining Work:
+    - shared understanding of Agile through
+    - Everyone should have an idea about the project goals
+    - Social contract
+    - Backlog creation and refinement
+    - Epic creation
+    - Feature Identification
+    - Story elaboration
+    - Team should know the standard and regulations to follow
+    - Tools
+    - Release goals and planning
+
+  Release Plan:
+    In Agile, a well-done plan is known as the release plan
+    A release plan is organized using columns
+
+    Steps:
+      - Populate the backlog with the activities and features
+      - Determine which features to move into each release from the backlog.
+      - Leave non-committed stories in the backlog 
+    
+
+  Wall of Work:
+    track progress and see the status of all tasks
+    (jira story board)
+
+  User Stories:
+    Levels of work:
+      - Epics : high-level activities that span multiple iterations and possibly releases
+      - Features : break the epics into smaller chunks known as features -> proposed functionality -> one iteration
+      - Stories : tasks that are ready for the team to build - individual task
+
+    As a ....... I can ........ so that......
+
+    A story should have:
+      - Title
+      - Priority
+      - End user
+      - User story
+      - Tasks
+      - Team members
+      - Acceptance criteria
+
+      Definition of done -> the standards -> story to be accepted by the product owner
+      Acceptance criteria -> specific to each story -> when the specific piece of work is done.
+      The definition of done -> all stories -> standards that must be met -> completed.
+
+Delivery:
+  Iterations:
+    2-4 week period
+
+    cycle:
+      - Iteration planning - sprint planning
+      - Backlog
+      - Pull work
+      - Backlog refinement - midsprint
+      - Execute work - work
+      - Daily standups
+      - Showcase -what we did
+      - Retrospective -how the process went
+
+
+
+    
+
+ 
