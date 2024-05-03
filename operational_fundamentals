@@ -1,0 +1,73 @@
+Operations : repeatable processes—processes that bring value—that are continuous in nature with no defined start and end date.
+Agile methods can be applied to that approach or pattern to improve work completion and success.
+
+Program work
+Any type of project work with a defined start and end date
+
+The operations pattern is the approach used to get operations work done.
+
+Operation pattern
+- Request
+- Prioritize
+- Operational Funnel
+- Delivery
+
+Bottlenecks
+    slowest part of your process
+    can be shifted to other areas by resloving
+
+One important aspect of the operations pattern is continuous process improvement : operation processes, even though they are continuous and repeatable and are done all the time, still may need improvements for better results.
+
+
+
+Applying Agile to operations:
+
+    Social Contact:
+        the social contract is created by a team who owns a process or part of a process
+
+    Iteration:
+        plans what all to complete in an iteration (how sprint works) 3-4 weeks
+        A team chooses the work to be completed from the funnel in each iteration.
+    
+    Wall of work:
+        samw
+    
+    Stand ups:
+        one in a month
+
+    Retro:
+        how they can improve the way they work for better results.
+    
+Agile Operation Teams:
+
+    Self directed teams:
+        Agile teams are cross-functional
+        The team includes:
+            core: dedicated
+                iteration manager -> team lead : SS
+                product owner -> process owner, owner of work -Holds the “product” or “outcome” vision : PM
+                subject matter experts : ME F
+                doers : HSM AMT HH
+            extended: assist when in need
+                Agile program or project manager -> provide management guidance and insight on any associated Agile projects or series of projects (programs) that might impact day-to-day operations.
+                stakeholders -> A stakeholder is a person who has an interest or investment : Fl
+                change manager -> implement changes in its processes => easier transitions, with minimal disruptions :Oven
+                some subject matter experts -> special expertise or skill that are different than the core team SME : Oven
+            governance: provides guidance and direction for the overall team
+                Steering Committee -> project governance meeting where the big decisions are made
+                Sponsor -> motivation and exposure for the team at a higher level
+
+Kanban 
+    pull system
+    
+    emphasis on just-in-time delivery,
+    wall of work
+
+    Principles:
+        Visualize : wall of work
+        Limit WIP : having the work pushed to them by management regardless of readiness. 
+        Manage Flow : monitor the flow of work for best optimization
+        Make process policies explicit : make all rules and guidelines around the process explicit and visible to everyone
+        Improve collaboratively 
+
+    
