@@ -9,7 +9,7 @@ Agile Values:
 Agile Principles:
     Describes the mindset of being Agile
 
-- Clarity of Outcome
+- Clarity of Outcome:
     - define solution
     - determine user outcome
     - aim high-level outcome
@@ -17,7 +17,7 @@ Agile Principles:
     Agile teams focus on the user and user outcomes, not the number of features shipped for a software delivery
 
 
-- Iteration and Learning
+- Iteration and Learning:
     continually improve rather than wait until it’s perfect.
     Agile way is understanding that a better solution exists
     - try small things
@@ -25,9 +25,11 @@ Agile Principles:
     - change according to feedback
 
 
-- Self directed teams
+- Self directed teams:
     - create small teams
     - participate in decision making
+
+
 
 Agile Practices:
 - Social contract:
@@ -37,20 +39,20 @@ Agile Practices:
     red and green marbles for rep. moods
     each day fill the marbles in a jar, and evaluate the mood of the team
     Over time, look for any patterns, allows you to be aware of any issues and address them ahead of time.
-- Wall of work
+- Wall of work:
     to do
     done 
     in progress
     prioritise
-- Standup
+- Standup:
     what have we done
     what will we do for tomorrow
     what are the blockers
-- Retro
+- Retro:
     allows the team to tell how they performed
     what went well, what didnt, what's puzzling
-- Showcase
-- Shuhari
+- Showcase:
+- Shuhari:
     shu - learn / follow the rule
     ha - adapt the rule
     ri - teach others of our approach
@@ -67,4 +69,5 @@ Steps in pattern:
 - Explore and strategize
 - Build, test and Implement
 - Manage and evolve
+
 
